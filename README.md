@@ -2,7 +2,7 @@
 I will show you a simple implementation of Observer Pattern based on .NET Events.
 
 # Introduction
-The observer pattern is simply a publish/subscribe relationship.
+The observer pattern is simply a publish/subscribe relationship. This pattern is a behavioral design pattern. This pattern allows an instance (called subject) to publish events to other multiple instances (called observers). These observers subscribe to the subject and hence get notified by events in case of any change happening in the subject.
 * The publisher is also referred to as the subject that we want to watch for a state change.
 * Then we have one or more Subscribers, also referred to as Observers. These are the dependent objects that will be notified when the state changes.
 
