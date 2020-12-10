@@ -1,0 +1,16 @@
+E:\Projects\Observer-Pattern\Observer-Pattern\bin\Debug\net5.0\Observer-Pattern.exe
+E:\Projects\Observer-Pattern\Observer-Pattern\bin\Debug\net5.0\Observer-Pattern.deps.json
+E:\Projects\Observer-Pattern\Observer-Pattern\bin\Debug\net5.0\Observer-Pattern.runtimeconfig.json
+E:\Projects\Observer-Pattern\Observer-Pattern\bin\Debug\net5.0\Observer-Pattern.runtimeconfig.dev.json
+E:\Projects\Observer-Pattern\Observer-Pattern\bin\Debug\net5.0\Observer-Pattern.dll
+E:\Projects\Observer-Pattern\Observer-Pattern\bin\Debug\net5.0\ref\Observer-Pattern.dll
+E:\Projects\Observer-Pattern\Observer-Pattern\bin\Debug\net5.0\Observer-Pattern.pdb
+E:\Projects\Observer-Pattern\Observer-Pattern\obj\Debug\net5.0\Observer-Pattern.csprojAssemblyReference.cache
+E:\Projects\Observer-Pattern\Observer-Pattern\obj\Debug\net5.0\Observer-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Observer-Pattern\Observer-Pattern\obj\Debug\net5.0\Observer-Pattern.AssemblyInfoInputs.cache
+E:\Projects\Observer-Pattern\Observer-Pattern\obj\Debug\net5.0\Observer-Pattern.AssemblyInfo.cs
+E:\Projects\Observer-Pattern\Observer-Pattern\obj\Debug\net5.0\Observer-Pattern.csproj.CoreCompileInputs.cache
+E:\Projects\Observer-Pattern\Observer-Pattern\obj\Debug\net5.0\Observer-Pattern.dll
+E:\Projects\Observer-Pattern\Observer-Pattern\obj\Debug\net5.0\ref\Observer-Pattern.dll
+E:\Projects\Observer-Pattern\Observer-Pattern\obj\Debug\net5.0\Observer-Pattern.pdb
+E:\Projects\Observer-Pattern\Observer-Pattern\obj\Debug\net5.0\Observer-Pattern.genruntimeconfig.cache
