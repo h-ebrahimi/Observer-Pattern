@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern.csproj": {}
+    "E:\\Projects\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern.csproj": {
+    "E:\\Projects\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern.csproj",
+        "projectUniqueName": "E:\\Projects\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern.csproj",
         "projectName": "Observer-Pattern",
-        "projectPath": "E:\\Projects\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern.csproj",
+        "projectPath": "E:\\Projects\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern\\Observer-Pattern\\obj\\",
+        "outputPath": "E:\\Projects\\Observer-Pattern\\Observer-Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
